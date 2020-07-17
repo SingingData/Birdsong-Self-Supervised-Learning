@@ -10,6 +10,8 @@ We also demonstrate the impact of using various data augmentation techniques to 
 
 In the preprocessing scripts you can find two methods we used to filter out undesirable audio samples, finding and eliminating samples with low magnitude differential and clustering with K-means on CQT transforms to identify undesirable non-birdsong audio.
 
+We will add the augmentation scripts shortly.
+
 The birdsong audio referenced here is available in this repository: https://github.com/SingingData/Birdsong
 The Washington State ferry audio referenced here is available in this repository: https://github.com/SingingData/Vroom
 
