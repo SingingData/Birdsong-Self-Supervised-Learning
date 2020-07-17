@@ -16,6 +16,13 @@ In the preprocessing scripts you can find two methods we used to filter out unde
 
 We will add the augmentation scripts shortly.
 
+Results for upstream self-supervised learning are in table 1.  Results for downstream ferry audio classifications are in table 2.
+
+<p align="center">
+  <img src="https://github.com/SingingData/Birdsong-Self-Supervised-Learning/blob/master/Media/table1-png.png" alt="Table 1 Results"/ width=600>
+  <img src="https://github.com/SingingData/Birdsong-Self-Supervised-Learning/blob/master/Media/table2-png.png" alt="Table 2 Results"/ width=600>
+</p>
+
 The birdsong audio referenced here is available in this repository: https://github.com/SingingData/Birdsong
 The Washington State ferry audio referenced here is available in this repository: https://github.com/SingingData/Vroom
 
